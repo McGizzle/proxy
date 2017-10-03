@@ -1,0 +1,1091 @@
+********** HTTP Log Proxy Started **********
+
+
+New Connection Established:
+Proxy connected to [http://192.168.1.6:7676/smp_6_]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://192.168.1.6:7676/smp_6_]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://192.168.1.6:7676/smp_6_]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://192.168.1.6:7676/smp_6_]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://192.168.1.6:7676/smp_6_]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://192.168.1.6:7676/smp_6_]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://blog.httpwatch.com/wp-content/uploads/2007/12/cache_second_get.png]
+STATUS: 200
+New Connection Established:
+Proxy connected to [http://blog.httpwatch.com/wp-content/uploads/2007/12/cache_get_new_url.png]
+STATUS: 200
+New Connection Established:
+Proxy connected to [http://blog.httpwatch.com/wp-content/uploads/2007/12/cache_first_get.png]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://blog.httpwatch.com/wp-content/uploads/2007/12/google_expires.png]
+STATUS: 200
+No more data to transmit.
+
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://blog.httpwatch.com/wp-content/uploads/2007/12/cache_get_query_string.png]
+STATUS: 200
+No more data to transmit.
+
+No more data to transmit.
+
+********** HTTP Log Proxy Started **********
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/]
+STATUS: 200
+New Connection Established:
+Proxy connected to [http://192.168.1.6:7676/smp_6_]
+STATUS: 200
+No more data to transmit.
+
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://i.stack.imgur.com/avapk.png]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://i.stack.imgur.com/r0vlJ.png]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://b.scorecardresearch.com/b?c1=2&c2=17440561&ns__t=1487541450903&ns_c=UTF-8&cv=3.1&c8=Stack%20Overflow&c7=http%3A%2F%2Fstackoverflow.com%2F&c9=]
+STATUS: 204
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://pixel.quantserve.com/pixel;r=276619551;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-1247949000-1485545521393;ns=0;ce=1;cm=;je=0;sr=1280x800x24;enc=n;dst=1;et=1487541450913;tzo=0;ref=;url=http%3A%2F%2Fstackoverflow.com%2F;ogl=type.website%2Cimage.https%3A%2F%2Fcdn%252Esstatic%252Enet%2FSites%2Fstackoverflow%2Fimg%2Fapple-touch-icon%402%252Epng%3Fv%3D73d79a8%2Ctitle.Stack%20Overflow%2Cdescription.Q%26A%20for%20professional%20and%20enthusiast%20programmers%2Curl.http%3A%2F%2Fstackoverflow%252Ecom%2F]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://engine.adzerk.net/ados?t=1487541451056&request={%22Placements%22:[{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk1469088780%22,%22ATA%22:[5,17,2221],%22Z%22:[45]}],%22Keywords%22:%22undefined%22,%22Referrer%22:%22%22,%22IsAsync%22:true}]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://stackexchange.com/ads/launched-question/js?id=SE20-ad-container]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://b.scorecardresearch.com/b?c1=2&c2=17440561&ns__t=1487541465410&ns_c=UTF-8&cv=3.1&c8=Stack%20Overflow&c7=http%3A%2F%2Fstackoverflow.com%2F&c9=]
+STATUS: 204
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://pixel.quantserve.com/pixel;r=402324472;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-1247949000-1485545521393;ns=0;ce=1;cm=;je=0;sr=1280x800x24;enc=n;dst=1;et=1487541465396;tzo=0;ref=;url=http%3A%2F%2Fstackoverflow.com%2F;ogl=type.website%2Cimage.https%3A%2F%2Fcdn%252Esstatic%252Enet%2FSites%2Fstackoverflow%2Fimg%2Fapple-touch-icon%402%252Epng%3Fv%3D73d79a8%2Ctitle.Stack%20Overflow%2Cdescription.Q%26A%20for%20professional%20and%20enthusiast%20programmers%2Curl.http%3A%2F%2Fstackoverflow%252Ecom%2F]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://engine.adzerk.net/ados?t=1487541465595&request={%22Placements%22:[{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk595215777%22,%22ATA%22:[5,17,2221],%22Z%22:[45]}],%22Keywords%22:%22undefined%22,%22Referrer%22:%22%22,%22IsAsync%22:true}]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://b.scorecardresearch.com/b?c1=2&c2=17440561&ns__t=1487541481433&ns_c=UTF-8&cv=3.1&c8=Stack%20Overflow&c7=http%3A%2F%2Fstackoverflow.com%2F&c9=]
+STATUS: 204
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://pixel.quantserve.com/pixel;r=1097805871;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-1247949000-1485545521393;ns=0;ce=1;cm=;je=0;sr=1280x800x24;enc=n;dst=1;et=1487541481421;tzo=0;ref=;url=http%3A%2F%2Fstackoverflow.com%2F;ogl=type.website%2Cimage.https%3A%2F%2Fcdn%252Esstatic%252Enet%2FSites%2Fstackoverflow%2Fimg%2Fapple-touch-icon%402%252Epng%3Fv%3D73d79a8%2Ctitle.Stack%20Overflow%2Cdescription.Q%26A%20for%20professional%20and%20enthusiast%20programmers%2Curl.http%3A%2F%2Fstackoverflow%252Ecom%2F]
+STATUS: 200
+No more data to transmit.
+
+********** HTTP Log Proxy Started **********
+
+New Connection Established:
+********** HTTP Log Proxy Started **********
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://b.scorecardresearch.com/b?c1=2&c2=17440561&ns__t=1487541526838&ns_c=UTF-8&cv=3.1&c8=Stack%20Overflow&c7=http%3A%2F%2Fstackoverflow.com%2F&c9=]
+STATUS: 204
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://pixel.quantserve.com/pixel;r=724370280;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-1247949000-1485545521393;ns=0;ce=1;cm=;je=0;sr=1280x800x24;enc=n;dst=1;et=1487541526832;tzo=0;ref=;url=http%3A%2F%2Fstackoverflow.com%2F;ogl=type.website%2Cimage.https%3A%2F%2Fcdn%252Esstatic%252Enet%2FSites%2Fstackoverflow%2Fimg%2Fapple-touch-icon%402%252Epng%3Fv%3D73d79a8%2Ctitle.Stack%20Overflow%2Cdescription.Q%26A%20for%20professional%20and%20enthusiast%20programmers%2Curl.http%3A%2F%2Fstackoverflow%252Ecom%2F]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://engine.adzerk.net/ados?t=1487541527009&request={%22Placements%22:[{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk1116469509%22,%22ATA%22:[5,17,2221],%22Z%22:[45]}],%22Keywords%22:%22undefined%22,%22Referrer%22:%22%22,%22IsAsync%22:true}]
+STATUS: 200
+No more data to transmit.
+
+********** HTTP Log Proxy Started **********
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://b.scorecardresearch.com/b?c1=2&c2=17440561&ns__t=1487541539383&ns_c=UTF-8&cv=3.1&c8=Stack%20Overflow&c7=http%3A%2F%2Fstackoverflow.com%2F&c9=]
+STATUS: 204
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://pixel.quantserve.com/pixel;r=1210090167;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-1247949000-1485545521393;ns=0;ce=1;cm=;je=0;sr=1280x800x24;enc=n;dst=1;et=1487541539372;tzo=0;ref=;url=http%3A%2F%2Fstackoverflow.com%2F;ogl=type.website%2Cimage.https%3A%2F%2Fcdn%252Esstatic%252Enet%2FSites%2Fstackoverflow%2Fimg%2Fapple-touch-icon%402%252Epng%3Fv%3D73d79a8%2Ctitle.Stack%20Overflow%2Cdescription.Q%26A%20for%20professional%20and%20enthusiast%20programmers%2Curl.http%3A%2F%2Fstackoverflow%252Ecom%2F]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://engine.adzerk.net/ados?t=1487541539559&request={%22Placements%22:[{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk1155632937%22,%22ATA%22:[5,17,2221],%22Z%22:[45]}],%22Keywords%22:%22undefined%22,%22Referrer%22:%22%22,%22IsAsync%22:true}]
+STATUS: 200
+No more data to transmit.
+
+********** HTTP Log Proxy Started **********
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://b.scorecardresearch.com/b?c1=2&c2=17440561&ns__t=1487541565990&ns_c=UTF-8&cv=3.1&c8=Stack%20Overflow&c7=http%3A%2F%2Fstackoverflow.com%2F&c9=]
+STATUS: 204
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://pixel.quantserve.com/pixel;r=449535811;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-1247949000-1485545521393;ns=0;ce=1;cm=;je=0;sr=1280x800x24;enc=n;dst=1;et=1487541565986;tzo=0;ref=;url=http%3A%2F%2Fstackoverflow.com%2F;ogl=type.website%2Cimage.https%3A%2F%2Fcdn%252Esstatic%252Enet%2FSites%2Fstackoverflow%2Fimg%2Fapple-touch-icon%402%252Epng%3Fv%3D73d79a8%2Ctitle.Stack%20Overflow%2Cdescription.Q%26A%20for%20professional%20and%20enthusiast%20programmers%2Curl.http%3A%2F%2Fstackoverflow%252Ecom%2F]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://engine.adzerk.net/ados?t=1487541566047&request={%22Placements%22:[{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk984443406%22,%22ATA%22:[5,17,2221],%22Z%22:[45]}],%22Keywords%22:%22undefined%22,%22Referrer%22:%22%22,%22IsAsync%22:true}]
+STATUS: 200
+No more data to transmit.
+
+********** HTTP Log Proxy Started **********
+
+New Connection Established:
+********** HTTP Log Proxy Started **********
+
+New Connection Established:
+Proxy connected to [http://192.168.1.6:7676/smp_6_]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/questions/10729276/how-can-i-get-the-full-object-in-node-jss-console-log-rather-than-object]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://b.scorecardresearch.com/b?c1=2&c2=17440561&ns__t=1487541677478&ns_c=UTF-8&cv=3.1&c8=javascript%20-%20How%20can%20I%20get%20the%20full%20object%20in%20Node.js%27s%20console.log()%2C%20rather%20than%20%27%5BObject%5D%27%3F%20-%20Stack%20Overflow&c7=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F10729276%2Fhow-can-i-get-the-full-object-in-node-jss-console-log-rather-than-object&c9=https%3A%2F%2Fwww.google.ie%2F]
+STATUS: 204
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://pixel.quantserve.com/pixel;r=852395196;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-1247949000-1485545521393;ns=0;ce=1;cm=;je=0;sr=1280x800x24;enc=n;dst=1;et=1487541677473;tzo=0;ref=https%3A%2F%2Fwww.google.ie%2F;url=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F10729276%2Fhow-can-i-get-the-full-object-in-node-jss-console-log-rather-than-object;ogl=type.website%2Cimage.https%3A%2F%2Fcdn%252Esstatic%252Enet%2FSites%2Fstackoverflow%2Fimg%2Fapple-touch-icon%402%252Epng%3Fv%3D73d79a8%2Ctitle.How%20can%20I%20get%20the%20full%20object%20in%20Node%252Ejs's%20console%252Elog()%252C%20rather%20than%20'%5BObject%5D'%2Cdescription.When%20debugging%20using%20console%252Elog()%252C%20how%20can%20I%20get%20the%20full%20object%3F%0A%0Aconst%20myObje%2Curl.http%3A%2F%2Fstackoverflow%252Ecom%2Fquestions%2F10729276%2Fhow-can-i-get-the-full-object-in-nod]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/posts/10729276/ivc/cfbe?_=1487541676710]
+STATUS: 204
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://engine.adzerk.net/ados?t=1487541677489&request={%22Placements%22:[{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk1637031327%22,%22AT%22:4,%22Z%22:[43]},{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk1884908973%22,%22AT%22:4,%22Z%22:[44]},{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk794024111%22,%22ATA%22:[5,17,2221],%22Z%22:[45]}],%22Keywords%22:%22javascript%2Cnode.js%2Cdebugging%2Cconsole.log%22,%22Referrer%22:%22https%3A%2F%2Fwww.google.ie%2F%22,%22IsAsync%22:true}]
+STATUS: 200
+No more data to transmit.
+
+********** HTTP Log Proxy Started **********
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/questions/10729276/how-can-i-get-the-full-object-in-node-jss-console-log-rather-than-object]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://b.scorecardresearch.com/b?c1=2&c2=17440561&ns__t=1487541716385&ns_c=UTF-8&cv=3.1&c8=javascript%20-%20How%20can%20I%20get%20the%20full%20object%20in%20Node.js%27s%20console.log()%2C%20rather%20than%20%27%5BObject%5D%27%3F%20-%20Stack%20Overflow&c7=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F10729276%2Fhow-can-i-get-the-full-object-in-node-jss-console-log-rather-than-object&c9=]
+STATUS: 204
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://pixel.quantserve.com/pixel;r=736607564;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-1247949000-1485545521393;ns=0;ce=1;cm=;je=0;sr=1280x800x24;enc=n;dst=1;et=1487541716380;tzo=0;ref=;url=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F10729276%2Fhow-can-i-get-the-full-object-in-node-jss-console-log-rather-than-object;ogl=type.website%2Cimage.https%3A%2F%2Fcdn%252Esstatic%252Enet%2FSites%2Fstackoverflow%2Fimg%2Fapple-touch-icon%402%252Epng%3Fv%3D73d79a8%2Ctitle.How%20can%20I%20get%20the%20full%20object%20in%20Node%252Ejs's%20console%252Elog()%252C%20rather%20than%20'%5BObject%5D'%2Cdescription.When%20debugging%20using%20console%252Elog()%252C%20how%20can%20I%20get%20the%20full%20object%3F%0A%0Aconst%20myObje%2Curl.http%3A%2F%2Fstackoverflow%252Ecom%2Fquestions%2F10729276%2Fhow-can-i-get-the-full-object-in-nod]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/posts/10729276/ivc/cfbe?_=1487541715945]
+STATUS: 204
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://engine.adzerk.net/ados?t=1487541716417&request={%22Placements%22:[{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk915957698%22,%22AT%22:4,%22Z%22:[43]},{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk2003265777%22,%22AT%22:4,%22Z%22:[44]},{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk619556082%22,%22ATA%22:[5,17,2221],%22Z%22:[45]}],%22Keywords%22:%22javascript%2Cnode.js%2Cdebugging%2Cconsole.log%22,%22Referrer%22:%22%22,%22IsAsync%22:true}]
+STATUS: 200
+No more data to transmit.
+
+********** HTTP Log Proxy Started **********
+
+New Connection Established:
+********** HTTP Log Proxy Started **********
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/questions/22996205/how-to-get-the-path-of-an-objects-value-from-a-value-in-javascript]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://b.scorecardresearch.com/b?c1=2&c2=17440561&ns__t=1487541807254&ns_c=UTF-8&cv=3.1&c8=node.js%20-%20how%20to%20get%20the%20path%20of%20an%20object%27s%20value%20from%20a%20value%20in%20javascript%20-%20Stack%20Overflow&c7=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F22996205%2Fhow-to-get-the-path-of-an-objects-value-from-a-value-in-javascript&c9=https%3A%2F%2Fwww.google.ie%2F]
+STATUS: 204
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://pixel.quantserve.com/pixel;r=526490423;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-1247949000-1485545521393;ns=0;ce=1;cm=;je=0;sr=1280x800x24;enc=n;dst=1;et=1487541807249;tzo=0;ref=https%3A%2F%2Fwww.google.ie%2F;url=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F22996205%2Fhow-to-get-the-path-of-an-objects-value-from-a-value-in-javascript;ogl=type.website%2Cimage.https%3A%2F%2Fcdn%252Esstatic%252Enet%2FSites%2Fstackoverflow%2Fimg%2Fapple-touch-icon%402%252Epng%3Fv%3D73d79a8%2Ctitle.how%20to%20get%20the%20path%20of%20an%20object's%20value%20from%20a%20value%20in%20javascript%2Cdescription.Example%3A%0A%0Avar%20someObject%20%3D%20%7B%0A'part1'%20%3A%20%7B%0A%20%20%20%20'name'%3A%20'Part%201'%252C%0A%20%20%20%20'txt'%3A%20'examp%2Curl.http%3A%2F%2Fstackoverflow%252Ecom%2Fquestions%2F22996205%2Fhow-to-get-the-path-of-an-objects-va]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/posts/22996205/ivc/cfbe?_=1487541806861]
+STATUS: 204
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://engine.adzerk.net/ados?t=1487541807261&request={%22Placements%22:[{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk2015394873%22,%22AT%22:4,%22Z%22:[43]},{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk1424179425%22,%22AT%22:4,%22Z%22:[44]},{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk876421466%22,%22ATA%22:[5,17,2221],%22Z%22:[45]}],%22Keywords%22:%22javascript%2Cnode.js%2Cobject%22,%22Referrer%22:%22https%3A%2F%2Fwww.google.ie%2F%22,%22IsAsync%22:true}]
+STATUS: 200
+No more data to transmit.
+
+********** HTTP Log Proxy Started **********
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/questions/22996205/how-to-get-the-path-of-an-objects-value-from-a-value-in-javascript]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://b.scorecardresearch.com/b?c1=2&c2=17440561&ns__t=1487541912634&ns_c=UTF-8&cv=3.1&c8=node.js%20-%20how%20to%20get%20the%20path%20of%20an%20object%27s%20value%20from%20a%20value%20in%20javascript%20-%20Stack%20Overflow&c7=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F22996205%2Fhow-to-get-the-path-of-an-objects-value-from-a-value-in-javascript&c9=]
+STATUS: 204
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://pixel.quantserve.com/pixel;r=1412674752;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-1247949000-1485545521393;ns=0;ce=1;cm=;je=0;sr=1280x800x24;enc=n;dst=1;et=1487541912629;tzo=0;ref=;url=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F22996205%2Fhow-to-get-the-path-of-an-objects-value-from-a-value-in-javascript;ogl=type.website%2Cimage.https%3A%2F%2Fcdn%252Esstatic%252Enet%2FSites%2Fstackoverflow%2Fimg%2Fapple-touch-icon%402%252Epng%3Fv%3D73d79a8%2Ctitle.how%20to%20get%20the%20path%20of%20an%20object's%20value%20from%20a%20value%20in%20javascript%2Cdescription.Example%3A%0A%0Avar%20someObject%20%3D%20%7B%0A'part1'%20%3A%20%7B%0A%20%20%20%20'name'%3A%20'Part%201'%252C%0A%20%20%20%20'txt'%3A%20'examp%2Curl.http%3A%2F%2Fstackoverflow%252Ecom%2Fquestions%2F22996205%2Fhow-to-get-the-path-of-an-objects-va]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/posts/22996205/ivc/cfbe?_=1487541912279]
+STATUS: 204
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://engine.adzerk.net/ados?t=1487541912666&request={%22Placements%22:[{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk390003625%22,%22AT%22:4,%22Z%22:[43]},{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk1702801556%22,%22AT%22:4,%22Z%22:[44]},{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk510136930%22,%22ATA%22:[5,17,2221],%22Z%22:[45]}],%22Keywords%22:%22javascript%2Cnode.js%2Cobject%22,%22Referrer%22:%22%22,%22IsAsync%22:true}]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://www.humancentredmovement.ie/]
+STATUS: 304
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://www.humancentredmovement.ie/]
+STATUS: 304
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://192.168.1.6:7676/smp_6_]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/questions/10729276/how-can-i-get-the-full-object-in-node-jss-console-log-rather-than-object]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://b.scorecardresearch.com/beacon.js]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://edge.quantserve.com/quant.js]
+STATUS: 304
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://static.adzerk.net/ados.js]
+STATUS: 304
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://b.scorecardresearch.com/b?c1=2&c2=17440561&ns__t=1487542320233&ns_c=UTF-8&cv=3.1&c8=javascript%20-%20How%20can%20I%20get%20the%20full%20object%20in%20Node.js%27s%20console.log()%2C%20rather%20than%20%27%5BObject%5D%27%3F%20-%20Stack%20Overflow&c7=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F10729276%2Fhow-can-i-get-the-full-object-in-node-jss-console-log-rather-than-object&c9=]
+STATUS: 204
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://pixel.quantserve.com/pixel;r=2050047832;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-1247949000-1485545521393;ns=0;ce=1;cm=;je=0;sr=1280x800x24;enc=n;dst=1;et=1487542320236;tzo=0;ref=;url=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F10729276%2Fhow-can-i-get-the-full-object-in-node-jss-console-log-rather-than-object;ogl=type.website%2Cimage.https%3A%2F%2Fcdn%252Esstatic%252Enet%2FSites%2Fstackoverflow%2Fimg%2Fapple-touch-icon%402%252Epng%3Fv%3D73d79a8%2Ctitle.How%20can%20I%20get%20the%20full%20object%20in%20Node%252Ejs's%20console%252Elog()%252C%20rather%20than%20'%5BObject%5D'%2Cdescription.When%20debugging%20using%20console%252Elog()%252C%20how%20can%20I%20get%20the%20full%20object%3F%0A%0Aconst%20myObje%2Curl.http%3A%2F%2Fstackoverflow%252Ecom%2Fquestions%2F10729276%2Fhow-can-i-get-the-full-object-in-nod]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/posts/10729276/ivc/0f7f?_=1487542319702]
+STATUS: 204
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://engine.adzerk.net/ados?t=1487542320246&request={%22Placements%22:[{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk1972009785%22,%22AT%22:4,%22Z%22:[43]},{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk917131336%22,%22AT%22:4,%22Z%22:[44]},{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk2023411160%22,%22ATA%22:[5,17,2221],%22Z%22:[45]}],%22Keywords%22:%22javascript%2Cnode.js%2Cdebugging%2Cconsole.log%22,%22Referrer%22:%22%22,%22IsAsync%22:true}]
+STATUS: 200
+No more data to transmit.
+
+********** HTTP Log Proxy Started **********
+
+New Connection Established:
+********** HTTP Log Proxy Started **********
+
+New Connection Established:
+********** HTTP Log Proxy Started **********
+
+New Connection Established:
+********** HTTP Log Proxy Started **********
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/questions/3459476/how-to-append-to-a-file-in-node]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://b.scorecardresearch.com/b?c1=2&c2=17440561&ns__t=1487542585253&ns_c=UTF-8&cv=3.1&c8=node.js%20-%20How%20to%20append%20to%20a%20file%20in%20Node%3F%20-%20Stack%20Overflow&c7=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F3459476%2Fhow-to-append-to-a-file-in-node&c9=]
+STATUS: 204
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://pixel.quantserve.com/pixel;r=1536568781;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-1247949000-1485545521393;ns=0;ce=1;cm=;je=0;sr=1280x800x24;enc=n;dst=1;et=1487542585241;tzo=0;ref=;url=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F3459476%2Fhow-to-append-to-a-file-in-node;ogl=type.website%2Cimage.https%3A%2F%2Fcdn%252Esstatic%252Enet%2FSites%2Fstackoverflow%2Fimg%2Fapple-touch-icon%402%252Epng%3Fv%3D73d79a8%2Ctitle.How%20to%20append%20to%20a%20file%20in%20Node%3F%2Cdescription.I%20am%20trying%20to%20append%20a%20string%20to%20a%20log%20file%252E%20However%20writeFile%20will%20erase%20the%20c%2Curl.http%3A%2F%2Fstackoverflow%252Ecom%2Fquestions%2F3459476%2Fhow-to-append-to-a-file-in-node]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/posts/3459476/ivc/0f7f?_=1487542584660]
+STATUS: 204
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://engine.adzerk.net/ados?t=1487542587182&request={%22Placements%22:[{%22A%22:22,%22S%22:8277,%22D%22:%22clc-tlb%22,%22AT%22:4,%22Z%22:[43]}],%22Keywords%22:%22node.js%22,%22Referrer%22:%22%22,%22IsAsync%22:true}]
+STATUS: 200
+No more data to transmit.
+
+********** HTTP Log Proxy Started **********
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/questions/3459476/how-to-append-to-a-file-in-node]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://b.scorecardresearch.com/b?c1=2&c2=17440561&ns__t=1487542668041&ns_c=UTF-8&cv=3.1&c8=node.js%20-%20How%20to%20append%20to%20a%20file%20in%20Node%3F%20-%20Stack%20Overflow&c7=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F3459476%2Fhow-to-append-to-a-file-in-node&c9=]
+STATUS: 204
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://pixel.quantserve.com/pixel;r=841587252;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-1247949000-1485545521393;ns=0;ce=1;cm=;je=0;sr=1280x800x24;enc=n;dst=1;et=1487542668038;tzo=0;ref=;url=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F3459476%2Fhow-to-append-to-a-file-in-node;ogl=type.website%2Cimage.https%3A%2F%2Fcdn%252Esstatic%252Enet%2FSites%2Fstackoverflow%2Fimg%2Fapple-touch-icon%402%252Epng%3Fv%3D73d79a8%2Ctitle.How%20to%20append%20to%20a%20file%20in%20Node%3F%2Cdescription.I%20am%20trying%20to%20append%20a%20string%20to%20a%20log%20file%252E%20However%20writeFile%20will%20erase%20the%20c%2Curl.http%3A%2F%2Fstackoverflow%252Ecom%2Fquestions%2F3459476%2Fhow-to-append-to-a-file-in-node]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/posts/3459476/ivc/0f7f?_=1487542667682]
+STATUS: 204
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://engine.adzerk.net/ados?t=1487542668367&request={%22Placements%22:[{%22A%22:22,%22S%22:8277,%22D%22:%22clc-tlb%22,%22AT%22:4,%22Z%22:[43]},{%22A%22:22,%22S%22:8277,%22D%22:%22clc-mlb%22,%22AT%22:4,%22Z%22:[44]}],%22Keywords%22:%22node.js%22,%22Referrer%22:%22%22,%22IsAsync%22:true}]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://192.168.1.6:7676/smp_6_]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/questions/14768132/add-a-new-attribute-to-existing-json-object-in-node-js]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://b.scorecardresearch.com/b?c1=2&c2=17440561&ns__t=1487542736679&ns_c=UTF-8&cv=3.1&c8=mongodb%20-%20Add%20a%20new%20attribute%20to%20existing%20json%20object%20in%20node.js%20-%20Stack%20Overflow&c7=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F14768132%2Fadd-a-new-attribute-to-existing-json-object-in-node-js&c9=https%3A%2F%2Fwww.google.ie%2F]
+STATUS: 204
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://pixel.quantserve.com/pixel;r=48375882;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-1247949000-1485545521393;ns=0;ce=1;cm=;je=0;sr=1280x800x24;enc=n;dst=1;et=1487542736673;tzo=0;ref=https%3A%2F%2Fwww.google.ie%2F;url=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F14768132%2Fadd-a-new-attribute-to-existing-json-object-in-node-js;ogl=type.website%2Cimage.https%3A%2F%2Fcdn%252Esstatic%252Enet%2FSites%2Fstackoverflow%2Fimg%2Fapple-touch-icon%402%252Epng%3Fv%3D73d79a8%2Ctitle.Add%20a%20new%20attribute%20to%20existing%20json%20object%20in%20node%252Ejs%2Cdescription.I%20have%20an%20object%20like%20this%0A%0A%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3Drecords%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%7B%20Id%3A%205114a3c2120%2Curl.http%3A%2F%2Fstackoverflow%252Ecom%2Fquestions%2F14768132%2Fadd-a-new-attribute-to-existing-json]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/posts/14768132/ivc/0f7f?_=1487542735825]
+STATUS: 204
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://engine.adzerk.net/ados?t=1487542736950&request={%22Placements%22:[{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk1556422479%22,%22AT%22:4,%22Z%22:[43]},{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk497178123%22,%22AT%22:4,%22Z%22:[44]},{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk147455160%22,%22ATA%22:[5,17,2221],%22Z%22:[45]}],%22Keywords%22:%22node.js%2Cmongodb%2Cmongoose%22,%22Referrer%22:%22https%3A%2F%2Fwww.google.ie%2F%22,%22IsAsync%22:true}]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://192.168.1.6:7676/smp_6_]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/questions/14939289/easy-way-to-store-json-under-node-js]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://pixel.quantserve.com/pixel;r=1224855742;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-1247949000-1485545521393;ns=0;ce=1;cm=;je=0;sr=1280x800x24;enc=n;dst=1;et=1487542775911;tzo=0;ref=https%3A%2F%2Fwww.google.ie%2F;url=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F14939289%2Feasy-way-to-store-json-under-node-js;ogl=type.website%2Cimage.https%3A%2F%2Fcdn%252Esstatic%252Enet%2FSites%2Fstackoverflow%2Fimg%2Fapple-touch-icon%402%252Epng%3Fv%3D73d79a8%2Ctitle.Easy%20way%20to%20store%20JSON%20under%20Node%252Ejs%2Cdescription.I'm%20looking%20for%20a%20super-simple%20way%20to%20store%20one%20JSON%20array%20in%20a%20persistent%20way%20u%2Curl.http%3A%2F%2Fstackoverflow%252Ecom%2Fquestions%2F14939289%2Feasy-way-to-store-json-under-node-js]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://b.scorecardresearch.com/b?c1=2&c2=17440561&ns__t=1487542775948&ns_c=UTF-8&cv=3.1&c8=javascript%20-%20Easy%20way%20to%20store%20JSON%20under%20Node.js%20-%20Stack%20Overflow&c7=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F14939289%2Feasy-way-to-store-json-under-node-js&c9=https%3A%2F%2Fwww.google.ie%2F]
+STATUS: 204
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/posts/14939289/ivc/0f7f?_=1487542775207]
+STATUS: 204
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://engine.adzerk.net/ados?t=1487542776096&request={%22Placements%22:[{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk622373896%22,%22AT%22:4,%22Z%22:[43]},{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk1837201270%22,%22AT%22:4,%22Z%22:[44]},{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk908293348%22,%22ATA%22:[5,17,2221],%22Z%22:[45]}],%22Keywords%22:%22javascript%2Cjson%2Cnode.js%22,%22Referrer%22:%22https%3A%2F%2Fwww.google.ie%2F%22,%22IsAsync%22:true}]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://192.168.1.6:7676/smp_6_]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/questions/4162749/convert-js-object-to-json-string]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://b.scorecardresearch.com/b?c1=2&c2=17440561&ns__t=1487542915395&ns_c=UTF-8&cv=3.1&c8=javascript%20-%20Convert%20JS%20object%20to%20JSON%20string%20-%20Stack%20Overflow&c7=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F4162749%2Fconvert-js-object-to-json-string&c9=https%3A%2F%2Fwww.google.ie%2F]
+STATUS: 204
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://pixel.quantserve.com/pixel;r=802584500;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-1247949000-1485545521393;ns=0;ce=1;cm=;je=0;sr=1280x800x24;enc=n;dst=1;et=1487542915388;tzo=0;ref=https%3A%2F%2Fwww.google.ie%2F;url=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F4162749%2Fconvert-js-object-to-json-string;ogl=type.website%2Cimage.https%3A%2F%2Fcdn%252Esstatic%252Enet%2FSites%2Fstackoverflow%2Fimg%2Fapple-touch-icon%402%252Epng%3Fv%3D73d79a8%2Ctitle.Convert%20JS%20object%20to%20JSON%20string%2Cdescription.If%20I%20defined%20an%20object%20in%20JS%20with%3A%0A%0Avar%20j%3D%7B%22name%22%3A%22binchen%22%7D%3B%0AHow%20can%20I%20convert%20%2Curl.http%3A%2F%2Fstackoverflow%252Ecom%2Fquestions%2F4162749%2Fconvert-js-object-to-json-string]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/posts/4162749/ivc/0f7f?_=1487542914532]
+STATUS: 204
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://engine.adzerk.net/ados?t=1487542915441&request={%22Placements%22:[{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk829207582%22,%22AT%22:4,%22Z%22:[43]},{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk695323486%22,%22AT%22:4,%22Z%22:[44]},{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk1086508147%22,%22ATA%22:[5,17,2221],%22Z%22:[45]}],%22Keywords%22:%22javascript%2Cjson%22,%22Referrer%22:%22https%3A%2F%2Fwww.google.ie%2F%22,%22IsAsync%22:true}]
+STATUS: 200
+No more data to transmit.
+
+********** HTTP Log Proxy Started **********
+
+New Connection Established:
+********** HTTP Log Proxy Started **********
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/questions/4816099/chrome-sendrequest-error-typeerror-converting-circular-structure-to-json]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://pixel.quantserve.com/pixel;r=1536270054;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-1247949000-1485545521393;ns=0;ce=1;cm=;je=0;sr=1280x800x24;enc=n;dst=1;et=1487543021650;tzo=0;ref=https%3A%2F%2Fwww.google.ie%2F;url=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F4816099%2Fchrome-sendrequest-error-typeerror-converting-circular-structure-to-json;ogl=type.website%2Cimage.https%3A%2F%2Fcdn%252Esstatic%252Enet%2FSites%2Fstackoverflow%2Fimg%2Fapple-touch-icon%402%252Epng%3Fv%3D73d79a8%2Ctitle.Chrome%20sendrequest%20error%3A%20TypeError%3A%20Converting%20circular%20structure%20to%20JSON%2Cdescription.I've%20got%20the%20following%252E%252E%252E%0A%0Achrome%252Eextension%252EsendRequest(%7B%0A%20%20req%3A%20%22getDocument%22%252C%0A%2Curl.http%3A%2F%2Fstackoverflow%252Ecom%2Fquestions%2F4816099%2Fchrome-sendrequest-error-typeerror-co]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://b.scorecardresearch.com/b?c1=2&c2=17440561&ns__t=1487543021658&ns_c=UTF-8&cv=3.1&c8=javascript%20-%20Chrome%20sendrequest%20error%3A%20TypeError%3A%20Converting%20circular%20structure%20to%20JSON%20-%20Stack%20Overflow&c7=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F4816099%2Fchrome-sendrequest-error-typeerror-converting-circular-structure-to-json&c9=https%3A%2F%2Fwww.google.ie%2F]
+STATUS: 204
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/posts/4816099/ivc/0f7f?_=1487543021043]
+STATUS: 204
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://engine.adzerk.net/ados?t=1487543021880&request={%22Placements%22:[{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk677255132%22,%22AT%22:4,%22Z%22:[43]},{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk1256324557%22,%22AT%22:4,%22Z%22:[44]},{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk1611550493%22,%22ATA%22:[5,17,2221],%22Z%22:[45]}],%22Keywords%22:%22javascript%2Cjson%2Cgoogle-chrome%2Cgoogle-chrome-extension%22,%22Referrer%22:%22https%3A%2F%2Fwww.google.ie%2F%22,%22IsAsync%22:true}]
+STATUS: 200
+No more data to transmit.
+
+********** HTTP Log Proxy Started **********
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/questions/4816099/chrome-sendrequest-error-typeerror-converting-circular-structure-to-json]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://b.scorecardresearch.com/b?c1=2&c2=17440561&ns__t=1487543157537&ns_c=UTF-8&cv=3.1&c8=javascript%20-%20Chrome%20sendrequest%20error%3A%20TypeError%3A%20Converting%20circular%20structure%20to%20JSON%20-%20Stack%20Overflow&c7=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F4816099%2Fchrome-sendrequest-error-typeerror-converting-circular-structure-to-json&c9=]
+STATUS: 204
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://pixel.quantserve.com/pixel;r=1101986870;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-1247949000-1485545521393;ns=0;ce=1;cm=;je=0;sr=1280x800x24;enc=n;dst=1;et=1487543157531;tzo=0;ref=;url=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F4816099%2Fchrome-sendrequest-error-typeerror-converting-circular-structure-to-json;ogl=type.website%2Cimage.https%3A%2F%2Fcdn%252Esstatic%252Enet%2FSites%2Fstackoverflow%2Fimg%2Fapple-touch-icon%402%252Epng%3Fv%3D73d79a8%2Ctitle.Chrome%20sendrequest%20error%3A%20TypeError%3A%20Converting%20circular%20structure%20to%20JSON%2Cdescription.I've%20got%20the%20following%252E%252E%252E%0A%0Achrome%252Eextension%252EsendRequest(%7B%0A%20%20req%3A%20%22getDocument%22%252C%0A%2Curl.http%3A%2F%2Fstackoverflow%252Ecom%2Fquestions%2F4816099%2Fchrome-sendrequest-error-typeerror-co]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/posts/4816099/ivc/0f7f?_=1487543156909]
+STATUS: 204
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://engine.adzerk.net/ados?t=1487543157604&request={%22Placements%22:[{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk991233394%22,%22AT%22:4,%22Z%22:[43]},{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk1982930411%22,%22AT%22:4,%22Z%22:[44]},{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk1780269971%22,%22ATA%22:[5,17,2221],%22Z%22:[45]}],%22Keywords%22:%22javascript%2Cjson%2Cgoogle-chrome%2Cgoogle-chrome-extension%22,%22Referrer%22:%22%22,%22IsAsync%22:true}]
+STATUS: 200
+No more data to transmit.
+
+********** HTTP Log Proxy Started **********
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/questions/4816099/chrome-sendrequest-error-typeerror-converting-circular-structure-to-json]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://b.scorecardresearch.com/b?c1=2&c2=17440561&ns__t=1487543195815&ns_c=UTF-8&cv=3.1&c8=javascript%20-%20Chrome%20sendrequest%20error%3A%20TypeError%3A%20Converting%20circular%20structure%20to%20JSON%20-%20Stack%20Overflow&c7=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F4816099%2Fchrome-sendrequest-error-typeerror-converting-circular-structure-to-json&c9=]
+STATUS: 204
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://pixel.quantserve.com/pixel;r=1615479628;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-1247949000-1485545521393;ns=0;ce=1;cm=;je=0;sr=1280x800x24;enc=n;dst=1;et=1487543195807;tzo=0;ref=;url=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F4816099%2Fchrome-sendrequest-error-typeerror-converting-circular-structure-to-json;ogl=type.website%2Cimage.https%3A%2F%2Fcdn%252Esstatic%252Enet%2FSites%2Fstackoverflow%2Fimg%2Fapple-touch-icon%402%252Epng%3Fv%3D73d79a8%2Ctitle.Chrome%20sendrequest%20error%3A%20TypeError%3A%20Converting%20circular%20structure%20to%20JSON%2Cdescription.I've%20got%20the%20following%252E%252E%252E%0A%0Achrome%252Eextension%252EsendRequest(%7B%0A%20%20req%3A%20%22getDocument%22%252C%0A%2Curl.http%3A%2F%2Fstackoverflow%252Ecom%2Fquestions%2F4816099%2Fchrome-sendrequest-error-typeerror-co]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/posts/4816099/ivc/0f7f?_=1487543195208]
+STATUS: 204
+No more data to transmit.
+
+********** HTTP Log Proxy Started **********
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/questions/4816099/chrome-sendrequest-error-typeerror-converting-circular-structure-to-json]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://b.scorecardresearch.com/b?c1=2&c2=17440561&ns__t=1487543324757&ns_c=UTF-8&cv=3.1&c8=javascript%20-%20Chrome%20sendrequest%20error%3A%20TypeError%3A%20Converting%20circular%20structure%20to%20JSON%20-%20Stack%20Overflow&c7=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F4816099%2Fchrome-sendrequest-error-typeerror-converting-circular-structure-to-json&c9=]
+STATUS: 204
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://pixel.quantserve.com/pixel;r=117850061;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-1247949000-1485545521393;ns=0;ce=1;cm=;je=0;sr=1280x800x24;enc=n;dst=1;et=1487543324748;tzo=0;ref=;url=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F4816099%2Fchrome-sendrequest-error-typeerror-converting-circular-structure-to-json;ogl=type.website%2Cimage.https%3A%2F%2Fcdn%252Esstatic%252Enet%2FSites%2Fstackoverflow%2Fimg%2Fapple-touch-icon%402%252Epng%3Fv%3D73d79a8%2Ctitle.Chrome%20sendrequest%20error%3A%20TypeError%3A%20Converting%20circular%20structure%20to%20JSON%2Cdescription.I've%20got%20the%20following%252E%252E%252E%0A%0Achrome%252Eextension%252EsendRequest(%7B%0A%20%20req%3A%20%22getDocument%22%252C%0A%2Curl.http%3A%2F%2Fstackoverflow%252Ecom%2Fquestions%2F4816099%2Fchrome-sendrequest-error-typeerror-co]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/posts/4816099/ivc/39bd?_=1487543324230]
+STATUS: 204
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://engine.adzerk.net/ados?t=1487543324770&request={%22Placements%22:[{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk554495070%22,%22AT%22:4,%22Z%22:[43]},{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk687634074%22,%22AT%22:4,%22Z%22:[44]},{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk1892901907%22,%22ATA%22:[5,17,2221],%22Z%22:[45]}],%22Keywords%22:%22javascript%2Cjson%2Cgoogle-chrome%2Cgoogle-chrome-extension%22,%22Referrer%22:%22%22,%22IsAsync%22:true}]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://192.168.1.6:7676/smp_6_]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/questions/30601002/createreadstream-in-node-js]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://b.scorecardresearch.com/b?c1=2&c2=17440561&ns__t=1487543654873&ns_c=UTF-8&cv=3.1&c8=javascript%20-%20createReadStream%20in%20Node.JS%20-%20Stack%20Overflow&c7=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F30601002%2Fcreatereadstream-in-node-js&c9=https%3A%2F%2Fwww.google.ie%2F]
+STATUS: 204
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://pixel.quantserve.com/pixel;r=1008760065;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-1247949000-1485545521393;ns=0;ce=1;cm=;je=0;sr=1280x800x24;enc=n;dst=1;et=1487543654866;tzo=0;ref=https%3A%2F%2Fwww.google.ie%2F;url=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F30601002%2Fcreatereadstream-in-node-js;ogl=type.website%2Cimage.https%3A%2F%2Fcdn%252Esstatic%252Enet%2FSites%2Fstackoverflow%2Fimg%2Fapple-touch-icon%402%252Epng%3Fv%3D73d79a8%2Ctitle.createReadStream%20in%20Node%252EJS%2Cdescription.So%20I%20used%20fs%252EreadFile()%20and%20it%20gives%20me%20%0A%20%20%22FATAL%20ERROR%3A%20CALL_AND_RETRY_LAST%20All%2Curl.http%3A%2F%2Fstackoverflow%252Ecom%2Fquestions%2F30601002%2Fcreatereadstream-in-node-js]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/posts/30601002/ivc/39bd?_=1487543654290]
+STATUS: 204
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://engine.adzerk.net/ados?t=1487543655010&request={%22Placements%22:[{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk1130611802%22,%22AT%22:4,%22Z%22:[43]},{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk2142113036%22,%22ATA%22:[5,17,2221],%22Z%22:[45]}],%22Keywords%22:%22javascript%2Cnode.js%2Cfile%2Cstream%2Creadfile%22,%22Referrer%22:%22https%3A%2F%2Fwww.google.ie%2F%22,%22IsAsync%22:true}]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://sr.symcd.com/MFYwVKADAgEAME0wSzBJMAkGBSsOAwIaBQAEFHQkFGcGn%2FXgmD9ePhproGUqVBV1BBQBWavn3ToLWaZkY9bPIAdX1ZHnagIQIHtlB41IS9WM52Nv0PzFZw%3D%3D]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://192.168.1.6:7676/smp_6_]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/questions/38843016/how-to-remove-one-line-from-a-txt-file]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://b.scorecardresearch.com/b?c1=2&c2=17440561&ns__t=1487543785201&ns_c=UTF-8&cv=3.1&c8=node.js%20-%20How%20to%20remove%20one%20line%20from%20a%20txt%20file%20-%20Stack%20Overflow&c7=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F38843016%2Fhow-to-remove-one-line-from-a-txt-file&c9=https%3A%2F%2Fwww.google.ie%2F]
+STATUS: 204
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://pixel.quantserve.com/pixel;r=2078802443;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-1247949000-1485545521393;ns=0;ce=1;cm=;je=0;sr=1280x800x24;enc=n;dst=1;et=1487543785194;tzo=0;ref=https%3A%2F%2Fwww.google.ie%2F;url=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F38843016%2Fhow-to-remove-one-line-from-a-txt-file;ogl=type.website%2Cimage.https%3A%2F%2Fcdn%252Esstatic%252Enet%2FSites%2Fstackoverflow%2Fimg%2Fapple-touch-icon%402%252Epng%3Fv%3D73d79a8%2Ctitle.How%20to%20remove%20one%20line%20from%20a%20txt%20file%2Cdescription.I%20have%20the%20following%20text%20file%20(%22test%252Etxt%22)%20that%20I%20want%20to%20manipulate%20in%20node%252Ejs%2Curl.http%3A%2F%2Fstackoverflow%252Ecom%2Fquestions%2F38843016%2Fhow-to-remove-one-line-from-a-txt-fi]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/posts/38843016/ivc/39bd?_=1487543784528]
+STATUS: 204
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://engine.adzerk.net/ados?t=1487543785256&request={%22Placements%22:[{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk1904074336%22,%22AT%22:4,%22Z%22:[43]},{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk1455045089%22,%22ATA%22:[5,17,2221],%22Z%22:[45]}],%22Keywords%22:%22node.js%22,%22Referrer%22:%22https%3A%2F%2Fwww.google.ie%2F%22,%22IsAsync%22:true}]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/questions/22858206/find-string-in-a-txt-file-delete-entire-line]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://b.scorecardresearch.com/b?c1=2&c2=17440561&ns__t=1487543800893&ns_c=UTF-8&cv=3.1&c8=javascript%20-%20Find%20String%20in%20a%20Txt%20File%2C%20Delete%20Entire%20Line%20-%20Stack%20Overflow&c7=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F22858206%2Ffind-string-in-a-txt-file-delete-entire-line&c9=https%3A%2F%2Fwww.google.ie%2F]
+STATUS: 204
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://pixel.quantserve.com/pixel;r=1017434088;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-1247949000-1485545521393;ns=0;ce=1;cm=;je=0;sr=1280x800x24;enc=n;dst=1;et=1487543800888;tzo=0;ref=https%3A%2F%2Fwww.google.ie%2F;url=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F22858206%2Ffind-string-in-a-txt-file-delete-entire-line;ogl=type.website%2Cimage.https%3A%2F%2Fcdn%252Esstatic%252Enet%2FSites%2Fstackoverflow%2Fimg%2Fapple-touch-icon%402%252Epng%3Fv%3D73d79a8%2Ctitle.Find%20String%20in%20a%20Txt%20File%252C%20Delete%20Entire%20Line%2Cdescription.I'm%20currently%20working%20with%20node%252Ejs%20to%20create%20an%20IRC%20bot%252E%20The%20bot%20allows%20users%20to%2Curl.http%3A%2F%2Fstackoverflow%252Ecom%2Fquestions%2F22858206%2Ffind-string-in-a-txt-file-delete-ent]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/posts/22858206/ivc/39bd?_=1487543800402]
+STATUS: 204
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://engine.adzerk.net/ados?t=1487543801265&request={%22Placements%22:[{%22A%22:22,%22S%22:8277,%22D%22:%22clc-tlb%22,%22AT%22:4,%22Z%22:[43]},{%22A%22:22,%22S%22:8277,%22D%22:%22clc-mlb%22,%22AT%22:4,%22Z%22:[44]}],%22Keywords%22:%22javascript%2Cnode.js%2Cfs%22,%22Referrer%22:%22https%3A%2F%2Fwww.google.ie%2F%22,%22IsAsync%22:true}]
+STATUS: 200
+No more data to transmit.
+
+********** HTTP Log Proxy Started **********
+
+********** HTTP Log Proxy Started **********
+
+********** HTTP Log Proxy Started **********
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/questions/14939289/easy-way-to-store-json-under-node-js]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://b.scorecardresearch.com/b?c1=2&c2=17440561&ns__t=1487544349545&ns_c=UTF-8&cv=3.1&c8=javascript%20-%20Easy%20way%20to%20store%20JSON%20under%20Node.js%20-%20Stack%20Overflow&c7=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F14939289%2Feasy-way-to-store-json-under-node-js&c9=]
+STATUS: 204
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://pixel.quantserve.com/pixel;r=1575278392;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-1247949000-1485545521393;ns=0;ce=1;cm=;je=0;sr=1280x800x24;enc=n;dst=1;et=1487544349536;tzo=0;ref=;url=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F14939289%2Feasy-way-to-store-json-under-node-js;ogl=type.website%2Cimage.https%3A%2F%2Fcdn%252Esstatic%252Enet%2FSites%2Fstackoverflow%2Fimg%2Fapple-touch-icon%402%252Epng%3Fv%3D73d79a8%2Ctitle.Easy%20way%20to%20store%20JSON%20under%20Node%252Ejs%2Cdescription.I'm%20looking%20for%20a%20super-simple%20way%20to%20store%20one%20JSON%20array%20in%20a%20persistent%20way%20u%2Curl.http%3A%2F%2Fstackoverflow%252Ecom%2Fquestions%2F14939289%2Feasy-way-to-store-json-under-node-js]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/posts/14939289/ivc/f97c?_=1487544349155]
+STATUS: 204
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://engine.adzerk.net/ados?t=1487544349551&request={%22Placements%22:[{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk483967924%22,%22AT%22:4,%22Z%22:[43]},{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk945635490%22,%22AT%22:4,%22Z%22:[44]},{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk474792628%22,%22ATA%22:[5,17,2221],%22Z%22:[45]}],%22Keywords%22:%22javascript%2Cjson%2Cnode.js%22,%22Referrer%22:%22%22,%22IsAsync%22:true}]
+STATUS: 200
+No more data to transmit.
+
+********** HTTP Log Proxy Started **********
+
+********** HTTP Log Proxy Started **********
+
+********** HTTP Log Proxy Started **********
+
+********** HTTP Log Proxy Started **********
+
+New Connection Established:
+Proxy connected to [http://192.168.1.6:7676/smp_6_]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/questions/17371224/node-js-delete-content-in-file]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://b.scorecardresearch.com/b?c1=2&c2=17440561&ns__t=1487544985622&ns_c=UTF-8&cv=3.1&c8=Node.js%20%2F%20Delete%20content%20in%20file%20-%20Stack%20Overflow&c7=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F17371224%2Fnode-js-delete-content-in-file&c9=https%3A%2F%2Fwww.google.ie%2F]
+STATUS: 204
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://pixel.quantserve.com/pixel;r=876048886;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-1247949000-1485545521393;ns=0;ce=1;cm=;je=0;sr=1280x800x24;enc=n;dst=1;et=1487544985616;tzo=0;ref=https%3A%2F%2Fwww.google.ie%2F;url=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F17371224%2Fnode-js-delete-content-in-file;ogl=type.website%2Cimage.https%3A%2F%2Fcdn%252Esstatic%252Enet%2FSites%2Fstackoverflow%2Fimg%2Fapple-touch-icon%402%252Epng%3Fv%3D73d79a8%2Ctitle.Node%252Ejs%20%2F%20Delete%20content%20in%20file%2Cdescription.I%20want%20to%20delete%20the%20content%20of%20a%20simple%20text%20file%20with%20node%252Ejs%252E%0AOr%20replace%20the%20%2Curl.http%3A%2F%2Fstackoverflow%252Ecom%2Fquestions%2F17371224%2Fnode-js-delete-content-in-file]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/posts/17371224/ivc/f97c?_=1487544984814]
+STATUS: 204
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://engine.adzerk.net/ados?t=1487544986157&request={%22Placements%22:[{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk696853358%22,%22AT%22:4,%22Z%22:[43]},{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk529431039%22,%22AT%22:4,%22Z%22:[44]},{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk838028827%22,%22ATA%22:[5,17,2221],%22Z%22:[45]}],%22Keywords%22:%22node.js%22,%22Referrer%22:%22https%3A%2F%2Fwww.google.ie%2F%22,%22IsAsync%22:true}]
+STATUS: 200
+No more data to transmit.
+
+********** HTTP Log Proxy Started **********
+
+********** HTTP Log Proxy Started **********
+
+********** HTTP Log Proxy Started **********
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/questions/17371224/node-js-delete-content-in-file]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://b.scorecardresearch.com/b?c1=2&c2=17440561&ns__t=1487545569302&ns_c=UTF-8&cv=3.1&c8=Node.js%20%2F%20Delete%20content%20in%20file%20-%20Stack%20Overflow&c7=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F17371224%2Fnode-js-delete-content-in-file&c9=]
+STATUS: 204
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://pixel.quantserve.com/pixel;r=341050149;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-1247949000-1485545521393;ns=0;ce=1;cm=;je=0;sr=1280x800x24;enc=n;dst=1;et=1487545569296;tzo=0;ref=;url=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F17371224%2Fnode-js-delete-content-in-file;ogl=type.website%2Cimage.https%3A%2F%2Fcdn%252Esstatic%252Enet%2FSites%2Fstackoverflow%2Fimg%2Fapple-touch-icon%402%252Epng%3Fv%3D73d79a8%2Ctitle.Node%252Ejs%20%2F%20Delete%20content%20in%20file%2Cdescription.I%20want%20to%20delete%20the%20content%20of%20a%20simple%20text%20file%20with%20node%252Ejs%252E%0AOr%20replace%20the%20%2Curl.http%3A%2F%2Fstackoverflow%252Ecom%2Fquestions%2F17371224%2Fnode-js-delete-content-in-file]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/posts/17371224/ivc/f83c?_=1487545568632]
+STATUS: 204
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://engine.adzerk.net/ados?t=1487545569343&request={%22Placements%22:[{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk1480031596%22,%22AT%22:4,%22Z%22:[43]},{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk703760333%22,%22AT%22:4,%22Z%22:[44]},{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk1560590722%22,%22ATA%22:[5,17,2221],%22Z%22:[45]}],%22Keywords%22:%22node.js%22,%22Referrer%22:%22%22,%22IsAsync%22:true}]
+STATUS: 200
+No more data to transmit.
+
+********** HTTP Log Proxy Started **********
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/questions/17371224/node-js-delete-content-in-file]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://b.scorecardresearch.com/b?c1=2&c2=17440561&ns__t=1487545627910&ns_c=UTF-8&cv=3.1&c8=Node.js%20%2F%20Delete%20content%20in%20file%20-%20Stack%20Overflow&c7=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F17371224%2Fnode-js-delete-content-in-file&c9=]
+STATUS: 204
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://pixel.quantserve.com/pixel;r=695155426;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-1247949000-1485545521393;ns=0;ce=1;cm=;je=0;sr=1280x800x24;enc=n;dst=1;et=1487545627905;tzo=0;ref=;url=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F17371224%2Fnode-js-delete-content-in-file;ogl=type.website%2Cimage.https%3A%2F%2Fcdn%252Esstatic%252Enet%2FSites%2Fstackoverflow%2Fimg%2Fapple-touch-icon%402%252Epng%3Fv%3D73d79a8%2Ctitle.Node%252Ejs%20%2F%20Delete%20content%20in%20file%2Cdescription.I%20want%20to%20delete%20the%20content%20of%20a%20simple%20text%20file%20with%20node%252Ejs%252E%0AOr%20replace%20the%20%2Curl.http%3A%2F%2Fstackoverflow%252Ecom%2Fquestions%2F17371224%2Fnode-js-delete-content-in-file]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/posts/17371224/ivc/f83c?_=1487545627513]
+STATUS: 204
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://engine.adzerk.net/ados?t=1487545627960&request={%22Placements%22:[{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk1457578806%22,%22AT%22:4,%22Z%22:[43]},{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk660920768%22,%22AT%22:4,%22Z%22:[44]},{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk1952529140%22,%22ATA%22:[5,17,2221],%22Z%22:[45]}],%22Keywords%22:%22node.js%22,%22Referrer%22:%22%22,%22IsAsync%22:true}]
+STATUS: 200
+No more data to transmit.
+
+********** HTTP Log Proxy Started **********
+
+********** HTTP Log Proxy Started **********
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/questions/17371224/node-js-delete-content-in-file]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://b.scorecardresearch.com/b?c1=2&c2=17440561&ns__t=1487545730613&ns_c=UTF-8&cv=3.1&c8=Node.js%20%2F%20Delete%20content%20in%20file%20-%20Stack%20Overflow&c7=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F17371224%2Fnode-js-delete-content-in-file&c9=]
+STATUS: 204
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://pixel.quantserve.com/pixel;r=1306803471;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-1247949000-1485545521393;ns=0;ce=1;cm=;je=0;sr=1280x800x24;enc=n;dst=1;et=1487545730608;tzo=0;ref=;url=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F17371224%2Fnode-js-delete-content-in-file;ogl=type.website%2Cimage.https%3A%2F%2Fcdn%252Esstatic%252Enet%2FSites%2Fstackoverflow%2Fimg%2Fapple-touch-icon%402%252Epng%3Fv%3D73d79a8%2Ctitle.Node%252Ejs%20%2F%20Delete%20content%20in%20file%2Cdescription.I%20want%20to%20delete%20the%20content%20of%20a%20simple%20text%20file%20with%20node%252Ejs%252E%0AOr%20replace%20the%20%2Curl.http%3A%2F%2Fstackoverflow%252Ecom%2Fquestions%2F17371224%2Fnode-js-delete-content-in-file]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/posts/17371224/ivc/f83c?_=1487545730151]
+STATUS: 204
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://engine.adzerk.net/ados?t=1487545730687&request={%22Placements%22:[{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk803726913%22,%22AT%22:4,%22Z%22:[43]},{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk1533684855%22,%22AT%22:4,%22Z%22:[44]},{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk1370295428%22,%22ATA%22:[5,17,2221],%22Z%22:[45]}],%22Keywords%22:%22node.js%22,%22Referrer%22:%22%22,%22IsAsync%22:true}]
+STATUS: 200
+No more data to transmit.
+
+********** HTTP Log Proxy Started **********
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/questions/17371224/node-js-delete-content-in-file]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://b.scorecardresearch.com/b?c1=2&c2=17440561&ns__t=1487545752198&ns_c=UTF-8&cv=3.1&c8=Node.js%20%2F%20Delete%20content%20in%20file%20-%20Stack%20Overflow&c7=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F17371224%2Fnode-js-delete-content-in-file&c9=]
+STATUS: 204
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://pixel.quantserve.com/pixel;r=2049361676;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-1247949000-1485545521393;ns=0;ce=1;cm=;je=0;sr=1280x800x24;enc=n;dst=1;et=1487545752191;tzo=0;ref=;url=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F17371224%2Fnode-js-delete-content-in-file;ogl=type.website%2Cimage.https%3A%2F%2Fcdn%252Esstatic%252Enet%2FSites%2Fstackoverflow%2Fimg%2Fapple-touch-icon%402%252Epng%3Fv%3D73d79a8%2Ctitle.Node%252Ejs%20%2F%20Delete%20content%20in%20file%2Cdescription.I%20want%20to%20delete%20the%20content%20of%20a%20simple%20text%20file%20with%20node%252Ejs%252E%0AOr%20replace%20the%20%2Curl.http%3A%2F%2Fstackoverflow%252Ecom%2Fquestions%2F17371224%2Fnode-js-delete-content-in-file]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://stackoverflow.com/posts/17371224/ivc/f83c?_=1487545751759]
+STATUS: 204
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://engine.adzerk.net/ados?t=1487545752206&request={%22Placements%22:[{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk1179669234%22,%22AT%22:4,%22Z%22:[43]},{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk1196255830%22,%22AT%22:4,%22Z%22:[44]},{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk296516578%22,%22ATA%22:[5,17,2221],%22Z%22:[45]}],%22Keywords%22:%22node.js%22,%22Referrer%22:%22%22,%22IsAsync%22:true}]
+STATUS: 200
+No more data to transmit.
+
+********** HTTP Log Proxy Started **********
+
+New Connection Established:
+Proxy connected to [http://192.168.1.6:7676/smp_6_]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://192.168.1.6:7676/smp_6_]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://s3-eu-west-1.amazonaws.com/de-blog/uploads/2014/09/shutterstock_126489872-660x660.jpg]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://s3-eu-west-1.amazonaws.com/de-blog/uploads/2016/08/kroukounaki1.png]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://www.tutorialspoint.com/android/images/data_base1.jpg]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://appcrawlr.com/img/ab7df-0b38c.jpg]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://cdn.mobilesiri.com/wp-content/uploads/2015/09/2.jpg]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://cdn.journaldev.com/wp-content/uploads/2015/10/android-sqlite-example.gif]
+STATUS: 200
+New Connection Established:
+Proxy connected to [http://www.androidhive.info/wp-content/uploads/2011/08/download_btn.png]
+STATUS: 200
+No more data to transmit.
+
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://assets.devx.com/articlefigs/40842_1.jpg]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://192.168.1.6:7676/smp_6_]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://www.androidbegin.com/wp-content/uploads/2013/04/SQLite-Database-Tutorial-ViewNote-XML.png]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://sr.symcd.com/MFYwVKADAgEAME0wSzBJMAkGBSsOAwIaBQAEFHQkFGcGn%2FXgmD9ePhproGUqVBV1BBQBWavn3ToLWaZkY9bPIAdX1ZHnagIQLEQjh%2FZmMyp7MMR6j2hQcw%3D%3D]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://192.168.1.6:7676/smp_6_]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://192.168.1.6:7676/smp_6_]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://192.168.1.6:7676/smp_6_]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://192.168.1.6:7676/smp_6_]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://www.thegibsonhotel.ie/]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://vendor.sb.bookassist.com/bootstrap/3.1.1/css/bootstrap.min.css]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://vendor.sb.bookassist.com/jquery.ui/1.11.2/themes/smoothness/jquery-ui.min.css]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://fonts.googleapis.com/css?family=Roboto:400,100,300,300italic,100italic,400italic,500,500italic,700,700italic,900,900italic|Gloria+Hallelujah]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://www.thegibsonhotel.ie/styles/normalize.css]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://www.thegibsonhotel.ie/files/css/style_min.css?version=1.2]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://www.thegibsonhotel.ie/scripts/modernizr-2.8.3.min.js]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://www.thegibsonhotel.ie/imagesizer.php?src=http://dwxf316kii2pu.cloudfront.net/photos/ie_2441_214_9.jpg&w=193&h=193]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://www.thegibsonhotel.ie/imagesizer.php?src=http://dwxf316kii2pu.cloudfront.net/photos/ie_2441_189_9.jpg&w=193&h=193]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://www.thegibsonhotel.ie/imagesizer.php?src=http://dwxf316kii2pu.cloudfront.net/photos/ie_2441_192_9.jpg&w=193&h=193]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://www.thegibsonhotel.ie/imagesizer.php?src=http://dwxf316kii2pu.cloudfront.net/photos/ie_2441_199_9.jpg&w=193&h=193]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://www.thegibsonhotel.ie/files/img/ico-norton-secured.png]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://www.thegibsonhotel.ie/files/room1.jpg]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://www.thegibsonhotel.ie/files/room2.jpg]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://www.thegibsonhotel.ie/files/hotel/hotel-a/stock-images/DeathtoStock_Band9.jpg]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://www.thegibsonhotel.ie/files/eat1.jpg]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://www.thegibsonhotel.ie/files/eat2.jpg]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://www.thegibsonhotel.ie/files/eat3.jpg]
+STATUS: 200
+No more data to transmit.
+
+New Connection Established:
+Proxy connected to [http://www.thegibsonhotel.ie/files/phoneZombie.jpg]
+STATUS: 200
+No more data to transmit.
